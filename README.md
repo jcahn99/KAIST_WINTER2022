@@ -1,6 +1,6 @@
 # KAIST_WINTER2022 INTERNSHIP
 
-### Paper review 일정 
+### REVIEW SCHEDULE 
 | Date | Year | Paper | Code |
 | :---: | --- | --- | --- |
 | 1/3 | 2016 | [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)| GCN |
