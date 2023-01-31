@@ -1,8 +1,5 @@
 # KAIST WINTER2022 INTERNSHIP(DSAIL)
-          Recommeder System and Graph Neural Network paper review & code implementation practice
-
-<img src="https://github.com/jcahn99/2022-winter-internship/blob/main/slides/title.png" alt="drawing" width="80%"/>
-
+    Recommeder System and Graph Neural Network paper review & code implementation practice
 ## Data Science and Artificial Intelligence Laboratory (DSAIL)
 - [Official Laboratory Homepage (Website)](http://dsail.kaist.ac.kr/)
 - [Introduction to the laboratory (YouTube)](https://www.youtube.com/watch?v=3Nz19Kln-yE)
