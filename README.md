@@ -1,6 +1,6 @@
 # KAIST WINTER2022 INTERNSHIP(DSAIL)
-
-Recommedation System and Graph Neural Network paper review & code implementation practice
+------------------------------------------------------------------------------------------------------
+##Recommeder System and Graph Neural Network paper review & code implementation practice
 ### REVIEW SCHEDULE 
 | Date | Year | Paper | Code |
 | :---: | --- | --- | --- |
